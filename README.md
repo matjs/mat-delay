@@ -2,8 +2,6 @@
 
 [![npm version](https://badge.fury.io/js/mat-delay.svg)](http://badge.fury.io/js/mat-delay)
 
-用于模拟低网速情况
-
 ## Installation
 
 ```sh
@@ -21,6 +19,10 @@ mat.task('default', function () {
     delay: 1
   }));
 })
+```
+
+```sh
+mat default
 ```
 
 ## Options

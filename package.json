@@ -1,9 +1,9 @@
 {
   "name": "mat-delay",
-  "description": "mat middleware for delay response",
+  "description": "模拟数据延迟的mat插件",
   "version": "0.0.1",
   "repository": {
-    "url": "https://github.com/naij/mat-delay"
+    "url": "https://github.com/matjs/mat-delay"
   },
   "author": {
     "name": "naij"
@@ -14,7 +14,7 @@
   "main": "index",
   "licenses": "MIT",
   "bugs": {
-    "url": "https://github.com/naij/mat-delay/issues"
+    "url": "https://github.com/matjs/mat-delay/issues"
   },
-  "homepage": "https://github.com/naij/mat-delay"
+  "homepage": "https://github.com/matjs/mat-delay"
 }
